@@ -2,6 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/cloudcost.svg)](https://pypi.org/project/cloudcost/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/cloudcost.svg)](https://pypi.org/project/cloudcost/)
+[![PyPI Downloads](https://static.pepy.tech/badge/cloudcost)](https://pepy.tech/projects/cloudcost)
 
 ## 🌟 Overview
 Cloud Cost is an advanced, easy-to-use Python utility designed to help organizations and cloud administrators optimize and manage Cloud infrastructure costs effectively. By providing deep insights and actionable recommendations, this tool empowers teams to reduce cloud spending without compromising performance.
@@ -75,5 +76,3 @@ It will analyse the existing usage and if the tool detects the cost saving oppor
 - Python: 3.9+
 - AWS Credentials: Read-only access recommended
 - Supported Platforms: Linux, macOS, Windows
-
-Project Link: [GitHub Repository](https://github.com/AuronCloud/cloudcost)
